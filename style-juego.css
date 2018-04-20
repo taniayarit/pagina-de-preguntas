@@ -1,0 +1,70 @@
+/* Fondo de la página */
+body {
+  background-image: url("https://www.journeymachupicchu.com/wp-content/uploads/2017/09/Peru-llama.jpg");
+  width: 95%;
+  height: 100%;
+  }
+#title{
+  font-family; cursive;
+  font-size: 50px;
+  margin-top: 50px;
+  width: 100%;
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 1));
+  color: white;
+  border-radius: 10px;
+  padding: 1.5px;
+}
+.posicion{
+  font-family: cursive;
+  font-size: 1.3em;
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 1));
+  color: white;
+  display: inline-block;
+  width: 28%;
+  margin-left: 40px;
+  margin-top: 35px;
+  text-align: center;
+  padding: 20px;
+}
+#trivia1 {
+  background-color:  #802b00;
+  color: #ffffff;
+  visibility: hidden;
+}
+.preguntas {
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 1));
+  color: white;
+  width: 60%;
+  margin-left: 45px;
+  display: inline-block;
+  text-align: center;
+}
+p {
+  padding: 30px;
+}
+#trivia2 {
+  background-color:  #802b00;
+  color: #ffffff;
+  visibility: hidden;
+}
+#trivia3 {
+  background-color:  #802b00;
+  color: #ffffff;
+  visibility: hidden;
+}
+#tabla {
+  visibility: hidden;
+  text-align: center;
+}
+#boton1 {
+  text-align: left;
+  visibility: hidden;
+}
+#boton2 {
+  text-align: left;
+  visibility: hidden;
+}
+#boton3 {
+  text-align: left;
+  visibility: hidden;
+}
